@@ -1,0 +1,18 @@
+[general]
+name = "SilenWM"
+
+[layout]
+mode = "hybrid"
+master_ratio = 0.60
+outer_gap = 8
+inner_gap = 6
+
+[appearance]
+border_width = 2
+focused_border = "#A3A58A"
+unfocused_border = "#45483E"
+
+[keybindings]
+terminal = "Super+Return"
+launcher = "Super+Space"
+close_window = "Super+Q"
